@@ -8,7 +8,7 @@ Guide gratuit, en français, pour les personnes qui ont reçu l'e-mail de Facebo
 - **Le guide :** 3 questions pour faire le point, puis les gestes à faire avant la date
   (groupes, exportation, contacts, Pages et outils par précaution).
 
-👉 **Ouvrir le guide :** voir le lien « Website » de ce dépôt (GitHub Pages).
+👉 **Ouvrir le guide :** https://www.artemis-ia.app/guide-profils-facebook
 
 ## Respect de votre vie privée
 Page statique : aucun cookie, aucun traceur, aucune donnée envoyée. Les réponses restent dans votre navigateur.
