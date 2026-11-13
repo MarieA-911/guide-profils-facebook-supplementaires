@@ -1,0 +1,24 @@
+:root{--nuit:#0B1A40;--or:#F2A516;--orange:#C9670A;--creme:#FFFCF6;--ligne:#F1E4CC;--texte:#1B2547;--gris:#5B6380}
+*{box-sizing:border-box}
+body{margin:0;background:var(--creme);color:var(--texte);font:17px/1.6 "Segoe UI",system-ui,-apple-system,sans-serif}
+.bandeau{background:var(--nuit);color:#fff;padding:.7rem 16px;border-bottom:4px solid var(--or)}
+.bandeau a{color:var(--or)}.marque{margin:0;max-width:860px;margin:0 auto;font-weight:600}
+main{max-width:860px;margin:0 auto;padding:1.5rem 16px 3rem}
+h1{color:var(--nuit);font-size:1.75rem;line-height:1.25;margin:.2rem 0 1rem}
+h2{color:var(--nuit);font-size:1.25rem;margin:0 0 .6rem}h3{font-size:1.05rem;margin:0 0 .3rem;color:var(--nuit)}
+.surtitre{text-transform:uppercase;letter-spacing:.06em;font-size:.8rem;color:var(--orange);font-weight:700;margin:0}
+.chapeau{font-size:1.08rem}
+.carte{background:#fff;border:1px solid var(--ligne);border-radius:14px;padding:1.2rem 1.3rem;margin:0 0 1.2rem;box-shadow:0 2px 10px rgba(11,26,64,.05);scroll-margin-top:1rem}
+.bouton{display:inline-block;background:linear-gradient(135deg,#F29A1E,#C9670A);color:#fff;border:0;border-radius:10px;padding:.65rem 1.1rem;font:600 1rem inherit;font-family:inherit;text-decoration:none;cursor:pointer}
+.lien{color:var(--orange);margin-left:.8rem}
+a{color:var(--orange)}
+.liste li,.etapes li{margin:.5rem 0}.etapes li{scroll-margin-top:1rem}
+fieldset{border:1px solid var(--ligne);border-radius:10px;margin:0 0 .8rem;padding:.6rem .9rem}
+legend{font-weight:600;padding:0 .3rem}
+label{display:block;padding:.25rem 0;cursor:pointer}
+#resultat{background:#FFF4E2;border-radius:10px;padding:1rem 1.1rem;margin-top:.5rem}
+details{border-top:1px solid var(--ligne);padding:.5rem 0}summary{cursor:pointer;font-weight:600}
+.discret{color:var(--gris);font-size:.9rem}
+.pub{border:2px solid var(--or)}
+footer{text-align:center;color:var(--gris);font-size:.85rem;padding:1.5rem 16px;border-top:1px solid var(--ligne)}
+@media (max-width:600px){h1{font-size:1.4rem}.lien{display:inline-block;margin:.6rem 0 0}}
